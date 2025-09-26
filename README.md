@@ -20,10 +20,10 @@
 
 <p align="">
 
-  <img src="https://streak-stats.demolab.com?user=abin-ik" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=abin-ik" alt="GitHub Streak" />  <img src="https://github-readme-stats.vercel.app/api?username=abin-ik&show_icons=true&locale=en" alt="GitHub Stats" />
   
   
-  <img src="https://github-readme-stats.vercel.app/api?username=abin-ik&show_icons=true&locale=en" alt="GitHub Stats" />
+  
 
  
 </p>
