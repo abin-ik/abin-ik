@@ -42,7 +42,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abin-ik&v=2" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=abin-ik" alt="GitHub Streak" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=abin-ik&show_icons=true&locale=en" alt="GitHub Stats" width="48%" />
 </p>
 
